@@ -4,9 +4,9 @@ A simple multi-page AirBnB clone that uses a server-side Javascript to display t
 
 ## Final Product
 
-!["ERD for LightBnB"](https://github.com/WDFP/tinyapp/blob/main/docs/Create%20new%20TinyURL.png?raw=true)
-!["Home Page showing Properties"](https://github.com/WDFP/tinyapp/blob/main/docs/New%20Short%20URL's%20Created%20.png?raw=true)
-!["LoggedIn User can create A Listing"](https://github.com/WDFP/tinyapp/blob/main/docs/Registration%20page%20for%20new%20users.png?raw=true)
+!["ERD for LightBnB"](https://github.com/WDFP/LightBnB/blob/main/docs/ERD%20for%20LIghtBnB.jpeg?raw=true)
+!["Home Page showing Properties"](https://github.com/WDFP/LightBnB/blob/main/docs/Home%20Page%20showing%20Properties.png?raw=true)
+!["LoggedIn User can create A Listing"](https://github.com/WDFP/LightBnB/blob/main/docs/LoggedIn%20User%20can%20create%20a%20Listing!.png?raw=true)
 
 ## Dependencies
 
